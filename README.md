@@ -1,5 +1,5 @@
 # slim_cnn_estimator
-Train CNN model by tf.estimator
+Train CNN classification model by tf.estimator with pretrained ResNet-50 weights.
 
 ## Usage
 
